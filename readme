@@ -5,3 +5,8 @@
 # we have the aligned and unaligned features from self-MM [Learning Modality-Specific Representations with Self-Supervised Multi-Task for Multimodal Sentiment Analysis (AAA2021)]
 # we have the aligned features from MAG [Integrating Multimodal Information in Large Pretrained Transformers]
 # we can get the aligned features from MISA but need to install the SDK [CMU Multimodal SDK]
+
+
+\textbf{Attention:}
+
+Due to the server damage, many projects and datasets are lost and this project is rebuilt for the MSA paper.
